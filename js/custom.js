@@ -78,7 +78,7 @@ $(document).ready(function() {
   $(function(){
     jQuery(document).ready(function() {
     $('#home').backstretch([
-       "images/toronto-skyline-winter.jpg"
+       "images/cover-image-v1.jpg"
         ],  {duration: 2000, fade: 750});
     });
   })

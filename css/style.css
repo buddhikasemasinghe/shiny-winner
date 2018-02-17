@@ -429,7 +429,7 @@ a {
 }
 
 #blog .blog-thumb:hover {
-  background: url('../images/blog-thumb.jpg');
+  background: url('../images/work-excellence-thumb.jpg');
    -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;
@@ -857,6 +857,10 @@ footer .copyright-text {
 
 .social-icon li a:hover {
     background: #ffffff;
+}
+
+.choose-us-content{
+    color: #dcd3a3;
 }
 
 
